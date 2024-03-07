@@ -2,7 +2,7 @@
 
 Fraud Detection
 
-Download dataset of this project using URL given below:
+Download dataset of this project using this URL:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 Description:
