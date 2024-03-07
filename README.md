@@ -2,6 +2,9 @@
 
 Fraud Detection
 
+Download dataset of this project using URL given below:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
 Description:
 Fraud detection involves identifying and preventing deceptive activities within financial
 transactions or systems. Leveraging advanced analytics and machine learning techniques, fraud
